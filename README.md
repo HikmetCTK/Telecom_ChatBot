@@ -1,5 +1,5 @@
 # Telecom_ChatBot
-Telecommunication bot for providing tasks based on customer inputs.
+Telecommunication Chatbot for providing tasks based on customer inputs.
 
 The Telecom Chatbot is an AI-powered conversational agent designed to assist and understand intent of users with telecommunications-related queries. The chatbot can answer questions about remaining phone tariff rights,
 switching to a new tariff, connecting to a customer representative and the current tariff price
@@ -15,6 +15,7 @@ I used Few-Shot prompting technique which  helps my chatbot to understand its li
 Technologies:
 
 -Python
+
 -Streamlit
 
 Usage:
