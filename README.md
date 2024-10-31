@@ -18,4 +18,5 @@ Technologies:
 -Streamlit
 
 Usage:
-you can run it by typing streamlit run app.py in your terminal.
+Enter your gemini key into env file.
+You can run it by typing streamlit run app.py in your terminal.
