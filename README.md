@@ -11,7 +11,7 @@ switching to a new tariff, connecting to a customer representative and the curre
 
 I used Gemini 1.5-flash model which is powerful and fast model of Google.
 
-Technologies:📡
+# Technologies:📡
 
 -Python
 
@@ -21,6 +21,6 @@ Technologies:📡
 
 -Streamlit
 
-Usage:
+# Usage:
 Enter your gemini key into env file.
 You can run it by typing streamlit run app.py in your terminal .
