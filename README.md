@@ -1,8 +1,7 @@
 # Telecom_ChatBot 📞🤖
 Türkish Telecommunication Chatbot for providing tasks based on customer inputs.
 
-It can be modified for using in any language.
-
+It can be modified for different situations.
 I used Few-Shot prompting and function calling technique which  helps my chatbot to understand its limitations  and communicating better with customers
 ![Screenshot 2024-10-29 121641](https://github.com/user-attachments/assets/3f124e8f-9e15-498c-94b8-4d30a07645d9)
 
