@@ -7,11 +7,10 @@ from dotenv import load_dotenv
 
 
 
-load_dotenv()
-api_key = os.getenv('GEMINI_API_KEY')
 
 
-genai.configure(api_key=api_key)
+
+genai.configure(api_key=secrets.API_KEY)
 
 generation_config = {
     "temperature": 0.1,
